@@ -1,0 +1,3 @@
+2024-12-17 12:59:20,193 - ERROR - Could not open serial port: [Errno 2] could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'
+2024-12-17 13:15:03,318 - ERROR - Could not open serial port: [Errno 2] could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'
+2024-12-17 13:15:01,957 - ERROR - Could not open serial port: [Errno 2] could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'
